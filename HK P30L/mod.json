@@ -1,0 +1,20 @@
+{
+  "Name": "John Wick's HK P30L",
+  "Author": "kurut0",
+  "Description": "This mod adds John Wick's HK P30L to People Playground!",
+  "ModVersion": "1.0",
+  "GameVersion": "1.26",
+  "ThumbnailPath": "icon.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Realistic",
+    "Fun",
+    "John Wick"
+  ],
+  "Scripts": [
+    "p30l.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3000513871"
+}

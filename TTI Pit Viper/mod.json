@@ -1,0 +1,19 @@
+{
+  "Name": "TTI JW4 Pit Viper",
+  "Author": "kurut0",
+  "Description": "This mod adds the TTI JW4 Pit Viper (as seen in John Wick 4) to People Playground!",
+  "ModVersion": "1.0",
+  "GameVersion": "1.26",
+  "ThumbnailPath": "icon.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Realistic",
+    "Fun"
+  ],
+  "Scripts": [
+    "viper.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2995476467"
+}

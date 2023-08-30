@@ -1,0 +1,20 @@
+{
+  "Name": "Colt M16 Pack",
+  "Author": "kurut0",
+  "Description": "This mod adds three Colt M16 variants: the Colt M16A1, M16A1 Grenadier, and the M16A2. Use if you ain't a senator's son or a fortunate one",
+  "ModVersion": "1.1",
+  "GameVersion": "1.26",
+  "ThumbnailPath": "icon.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Realistic",
+    "Fun"
+  ],
+  "Scripts": [
+    "m16.cs",
+    "ModeToggle.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3025913967"
+}

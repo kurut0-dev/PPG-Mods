@@ -1,0 +1,20 @@
+{
+  "Name": "SIG Sauer MCX SBR",
+  "Author": "kurut0",
+  "Description": "This mod adds the SIG Sauer MCX (Short-Barreled Rifle Variant) to People Playground!",
+  "ModVersion": "1.1",
+  "GameVersion": "1.26",
+  "ThumbnailPath": "icon.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Realistic",
+    "Fun"
+  ],
+  "Scripts": [
+    "mcxsbr.cs",
+    "ModeToggle.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3004604296"
+}
